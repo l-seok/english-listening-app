@@ -1,0 +1,6 @@
+{
+  "name": "RepeatEcho - 영어 문장 반복 청취 & 자막",
+  "description": "영어 문장을 원하는 횟수만큼 반복 청취하고 대형 자막 및 하이라이트로 섀도잉 학습을 할 수 있는 웹 앱입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
